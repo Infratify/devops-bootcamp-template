@@ -1,8 +1,8 @@
 # DevOps Bootcamp 2026
 
-Repo peribadi untuk semua kerja amali bootcamp. **Satu repo, bertambah setiap sesi.**
-
-Setiap topik masuk melalui **branch + PR**.
+- Repo peribadi untuk semua kerja amali bootcamp. 
+- **Satu repo, isi bertambah setiap sesi.**
+- Setiap topik masuk melalui **branch + PR**.
 
 ## Aliran kerja setiap sesi
 
