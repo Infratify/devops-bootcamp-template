@@ -1,4 +1,4 @@
-# DevOps Bootcamp 2026 — Portfolio
+# DevOps Bootcamp 2026
 
 Repo peribadi untuk semua kerja amali bootcamp. **Satu repo, bertambah setiap sesi.**
 
