@@ -1,0 +1,10 @@
+# Kredential — jangan commit
+*.csv
+credentials
+.aws/
+*.pem
+*.env
+.env
+
+# Sistem
+.DS_Store
